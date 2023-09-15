@@ -1,0 +1,14 @@
+link tutor yang sekarang lagi di kerjain :
+https://youtube.com/playlist?list=PLC-R40l2hJfdyfZ3jkDKOcyoqmIgw2wda&si=norATA3PkKyOaFiT
+
+
+(misal klao gagal passportnya pake perintah ini)
+composer require laravel/passport --ignore-platform-req=ext-sodium -W
+
+(untuk jalanin kaya di vidio)
+php artisan serve --port=8080
+npm run dev
+
+
+
+
